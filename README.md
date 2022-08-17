@@ -1,7 +1,7 @@
 # Hi, I'm Piyush! 👋
 
 ## 🚀 About Me
-I'm a Cloud Automation Engineer...
+I'm a Cloud DevOps & Automation Developer...
 
 - 🔭 I’m currently working on devops 
 - 🌱 I’m currently learning python and ansible
