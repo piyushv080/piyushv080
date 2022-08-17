@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a Cloud DevOps & Automation Developer...
 
-- 🔭 I’m currently working on devops 
+- 🔭 I’m currently working on cloud and devops 
 - 🌱 I’m currently learning python and ansible
 
 ## Tech Stack
