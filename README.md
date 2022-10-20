@@ -1,7 +1,7 @@
 # Hi, I'm Piyush! 👋
 
 ## 🚀 About Me
-I'm a Cloud DevOps & Automation Developer...
+I'm a Cloud Automation & DevOps Engineer...
 
 - 🔭 I’m currently working on cloud and devops 
 - 🌱 I’m currently learning python and ansible
@@ -10,11 +10,15 @@ I'm a Cloud DevOps & Automation Developer...
 
 Programming: Python
 
-Scripting: JavaScript, PowerShell, Ansible, Yaml, Bash/Shell
+Scripting: JavaScript, PowerShell, Yaml, Bash/Shell
+
+Infrastructure as a Code: Terraform, Ansible
+
+Cloud: AWS, Azure
 
 Orchestrator: CA ITPAM, SCORCH, vRealize(vRO/vRA) 
 
-Other tools: Git, GitHub, Linux, Windows
+Other tools: Docker, Git, GitHub, Linux, Windows
 
 
 ## 🔗 Links
