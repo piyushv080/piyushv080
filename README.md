@@ -1,24 +1,24 @@
 # Hi, I'm Piyush! 👋
 
 ## 🚀 About Me
-I'm a Cloud Automation & DevOps Engineer...
+I'm a Infrastructure Automation Engineer...
 
-- 🔭 I’m currently working on cloud and devops 
-- 🌱 I’m currently learning python and ansible
+- 🔭 I’m currently working on cloud and infrastructure.
+- 🌱 I’m currently learning python, powershell and ansible scripting.
 
 ## Tech Stack
 
 Programming: Python
 
-Scripting: JavaScript, PowerShell, Yaml, Bash/Shell
+Scripting: PowerShell, Yaml, Bash/Shell
 
-Infrastructure as a Code: Terraform, Ansible
+Infrastructure as a Code: Ansible, Terraform
 
 Cloud: AWS, Azure
 
-Orchestrator: CA ITPAM, SCORCH, vRealize(vRO/vRA) 
+Orchestrator: CA ITPAM, SCORCH
 
-Other tools: Docker, Git, GitHub, Linux, Windows
+Other tools: Docker, Git, GitHub, Linux Server, Windows Server
 
 
 ## 🔗 Links
