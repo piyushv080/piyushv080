@@ -1,7 +1,7 @@
 # Hi, I'm Piyush! 👋
 
 ## 🚀 About Me
-I'm a Infrastructure Automation Engineer...
+I'm a Developer...
 
 - 🔭 I’m currently working on cloud and infrastructure.
 - 🌱 I’m currently learning python, powershell and ansible scripting.
