@@ -4,7 +4,7 @@
 I'm a Developer...
 
 - 🔭 I’m currently working on cloud and infrastructure.
-- 🌱 I’m currently learning python, powershell and ansible scripting.
+- 🌱 I've hands-on working experience in Powershell scripting and Ansible playbook development.
 
 ## Tech Stack
 
@@ -14,11 +14,11 @@ Scripting: PowerShell, Yaml, Bash/Shell
 
 Infrastructure as a Code: Ansible, Terraform
 
-Cloud: AWS, Azure
+Cloud: AWS EC2, LAMBDA, S3, VPC, CLOUD FORMATION
 
-Orchestrator: CA ITPAM, SCORCH
+Infrastructure Orchestrator: CA PROCESS AUTOMATION(ITPAM), Microsoft System Center Orchestrator(SCORCH)
 
-Other tools: Docker, Git, GitHub, Linux Server, Windows Server
+Other tools: Jenkins, Git, GitHub, Linux Server, Windows Server
 
 
 ## 🔗 Links
