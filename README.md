@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a Developer...
 
-- 🔭 I’m currently working on cloud and infrastructure.
+- 🔭 I’m currently working on cloud automation and infrastructure orchestration.
 - 🌱 I've hands-on working experience in Powershell scripting and Ansible playbook development.
 
 ## Tech Stack
