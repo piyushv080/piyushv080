@@ -4,22 +4,22 @@
 I'm a Developer...
 
 - 🔭 I’m currently working on cloud automation and infrastructure orchestration.
-- 🌱 I've hands-on working experience in Powershell scripting and Ansible playbook development.
+- 🌱 I've hands-on working experience in Ansible playbook development and Powershell scripting.
+- 💻 I'm learning devops technologies mainly focus on ansible and servicenow as core technologies.
 
 ## Tech Stack
 
-Programming: Python
+Programming: Python, Javascript
 
 Scripting: PowerShell, Yaml, Bash/Shell
 
 Infrastructure as a Code: Ansible, Terraform
 
-Cloud: AWS EC2, LAMBDA, S3, VPC, CLOUD FORMATION
+Cloud: AWS EC2, LAMBDA, S3, VPC, CLOUD FORMATION, CLI
 
-Infrastructure Orchestrator: CA PROCESS AUTOMATION(ITPAM), Microsoft System Center Orchestrator(SCORCH)
+Infrastructure Orchestrator: CA PROCESS AUTOMATION(ITPAM), VMWARE ARIA Orchestrator(VRO), Microsoft System Center Orchestrator(SCORCH)
 
-Other tools: Jenkins, Git, GitHub, Linux Server, Windows Server
-
+Other tools: Jenkins, Git, GitHub, Linux Server, Windows Server, ServiceNow Administration, REST API Integration
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://piyushv080.com/piyushv080)
