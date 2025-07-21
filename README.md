@@ -15,6 +15,8 @@ Scripting: PowerShell, Yaml, Bash/Shell
 
 Infrastructure as a Code: Ansible, Terraform
 
+ITSM: ServiceNow Development, ServiceNow Administration, ServiceNow Integration Hub, ServiceNow Flow Designer
+
 Cloud: AWS EC2, LAMBDA, S3, VPC, CLOUD FORMATION, CLI
 
 Infrastructure Orchestrator: CA PROCESS AUTOMATION(ITPAM), VMWARE ARIA Orchestrator(VRO), Microsoft System Center Orchestrator(SCORCH)
