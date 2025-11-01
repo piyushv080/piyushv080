@@ -1,0 +1,147 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[margin=0.75in]{geometry}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{multicol}
+
+% Colors
+\definecolor{headingblue}{RGB}{0,102,204}
+
+% Section formatting
+\titleformat{\section}{\large\bfseries\color{headingblue}}{}{0em}{}[\titlerule]
+\titleformat{\subsection}{\normalsize\bfseries}{}{0em}{}
+
+% Reduce spacing for itemize
+\setlist[itemize]{noitemsep, topsep=2pt, leftmargin=0.5cm}
+
+% Hyperlink color
+\hypersetup{
+    colorlinks=true,
+    urlcolor=blue
+}
+
+\begin{document}
+
+%====================
+% Header
+%====================
+\begin{center}
+    {\LARGE \textbf{Piyush Verma}}\\[2pt]
+    Infrastructure Automation Developer | DevOps Engineer\\[1pt]
+    \href{mailto:piyushv080@gmail.com}{piyushv080@gmail.com} $\vert$ +91-8174812109 $\vert$ 
+    \href{https://www.linkedin.com/in/piyushv080/}{LinkedIn} $\vert$ 
+    \href{https://github.com/piyushv080}{GitHub}
+\end{center}
+
+%====================
+% Profile
+%====================
+\section*{Profile}
+Infrastructure Automation Developer with over 4+ years of experience in Ansible Playbook development, Github Action workflow, PowerShell, Python scripting, and ServiceNow Orchestration. Skilled in infrastructure automation and ServiceNow ITSM, with a strong background in Infrastructure and Cloud services. Proven ability to develop and automate processes for efficient and scalable solutions.
+
+%====================
+% Professional Experience (Properly aligned)
+%====================
+
+\setlength{\parindent}{0pt} % remove paragraph indentation globally
+
+\section*{Professional Experience}
+
+\textbf{Sanofi — Infrastructure Automation Developer (DevOps Engineer)} \hfill Jun 2025 -- Present\\
+Tower 100, RMZ Spire, Levels 9-15, Plot 4 - HITEC City, Hyderabad
+
+\vspace{2mm} % space between companies
+
+\textbf{Cognizant — Tech Lead (Sr. Infra Developer)} \hfill Jan 2024 -- May 2025\\
+SEZ F3, Manyata (MBP) - Bangalore, Karnataka
+
+\vspace{2mm} % space between companies
+
+\textbf{HCL Technologies — Senior Analyst (Automation Developer)} \hfill Sep 2021 -- Jan 2024\\
+SEZ Tower 3, Sector 126 - Noida, Uttar Pradesh
+
+
+%====================
+% Core Competencies (One per line)
+%====================
+\section*{Core Competencies}
+
+\textbf{Primary Skills:} Ansible, Red Hat Ansible Automation Platform, AWX Tower, ServiceNow Integration Hub, Flow Designer\\[2pt]
+\textbf{Infrastructure Automation:} PowerShell, Python, REST APIs, JSON, YAML, ServiceNow Administration\\[2pt]
+\textbf{Cloud \& DevOps Tools:} AWS (EC2, Lambda, S3, VPC, RDS, CloudWatch, MGN), Docker, OpenShift, GitHub Actions, Git, VS Code\\[2pt]
+\textbf{Scripting \& Programming:} Python, PowerShell, JavaScript, Bash\\[2pt]
+\textbf{System Administration:} Linux (RHEL 8, Ubuntu), Windows Server
+
+%====================
+% Projects (Updated for Optum JD)
+%====================
+\section*{Projects}
+
+\subsection*{Cyber Security Forensic Kit Deployment \hfill Aug 2025 -- Present}
+\begin{itemize}
+    \item Designed and automated infrastructure workflows using Ansible and GitHub Actions across Linux and Windows, implementing CI/CD principles for reliable deployment.
+    \item Applied Infrastructure as Code by creating reusable automation roles and dynamic inventories for large-scale enterprise deployments.
+    \item Integrated GitHub API for secure repository management and automated provisioning with branching and merge strategies.
+    \item Automated artifact management with JFrog Artifactory, ensuring validation and compliance.
+    \item Developed resilient automation frameworks with error handling, retry logic, and asynchronous execution for high availability.
+    \item Enhanced operational efficiency through automated data collection, secure file transfers, and detailed logging for audit and compliance.
+    \item Collaborated with cross-functional teams, ensuring adherence to security standards, automation best practices, and operational excellence.
+\end{itemize}
+
+\subsection*{ATLAS AWS Cloud Transformation \hfill Jun 2025 -- Aug 2025}
+\begin{itemize}
+    \item Led large-scale cloud migration automation, including AWS MGN agent deployment using Ansible integrated with GitHub Actions.
+    \item Engineered secure connectivity between on-prem and cloud platforms via OpenShift clusters and OIDC authentication, adhering to zero-trust principles.
+    \item Automated credential management by integrating CyberArk Vault and Terraform, reducing manual intervention and improving security posture.
+    \item Developed IaC solutions for AWS services: automated S3 provisioning, APM tagging, and backup orchestration.
+    \item Implemented ServiceNow catalog-driven automation for Linux and Windows systems, reducing request fulfillment time.
+    \item Collaborated with cloud architects and security teams to align automation with enterprise governance and best practices.
+\end{itemize}
+
+\subsection*{Clario Transformation \hfill Feb 2025 -- May 2025}
+\begin{itemize}
+    \item Directed full-stack automation for cardiac application deployment leveraging AWX Tower, GitLab CI/CD pipelines, and Ansible for rapid and reliable releases.
+    \item Architected automated RHEL 8 server provisioning using Ansible roles and VMware vCenter modules, improving consistency and reducing manual work.
+    \item Integrated Ansible AWX Tower with ServiceNow for self-service automation, improving operational efficiency.
+    \item Implemented dynamic JBoss application deployment strategies with survey-driven playbooks for environment-specific configuration.
+    \item Optimized release cycles and system performance through CI/CD orchestration, Infrastructure as Code, and automated workflows.
+\end{itemize}
+
+\subsection*{MDT Apollo Steady State \hfill Jul 2024 -- Jan 2025}
+\begin{itemize}
+    \item Automated operational workflows and configuration management using Ansible CLI and VMware Aria Automation Orchestrator, improving reliability.
+    \item Developed proactive monitoring scripts in Ansible and PowerShell for job alerts and application service management.
+    \item Automated storage operations including NetApp volume expansions and Linux VM lifecycle management.
+    \item Enhanced system stability and compliance via Infrastructure as Code practices and automated remediation workflows.
+\end{itemize}
+
+\subsection*{Lululemon - Enterprise K8s and Vancouver \hfill Jan 2024 -- Jul 2024}
+\begin{itemize}
+    \item Automated end-to-end service and change request workflows using ServiceNow Integration Hub, Flow Designer, and Ansible playbooks.
+    \item Integrated ServiceNow with enterprise systems (REST APIs, LDAP, SSO, Azure) and configured MID servers for secure automation.
+    \item Developed DNS record management and credential reset automation for Windows and Linux servers, with Teams notifications for real-time status.
+    \item Implemented incident remediation automation, ensuring port readiness and WinRM connectivity.
+    \item Enhanced operational resilience and compliance by embedding security best practices and IaC principles.
+\end{itemize}
+
+\subsection*{Proximus Steady State \hfill Sep 2021 -- Jan 2024}
+\begin{itemize}
+    \item Automated IT operations using CA Process Automation, Ansible, CyberArk Vault, and scripting languages (PowerShell, Bash).
+    \item Deployed CA ITPAM, implemented SSL certificates, and developed automation scripts leveraging REST and SOAP APIs.
+    \item Integrated workflows with Ansible, CyberArk Vault, iAutomate, and ServiceNow ITSM for streamlined service delivery.
+    \item Automated Splunk and DXIM agent installations and documented processes on Confluence.
+    \item Conducted monthly training sessions for junior team members to support knowledge sharing.
+\end{itemize}
+
+%====================
+% Education & Certifications
+%====================
+\section*{Education \& Certifications}
+\begin{itemize}
+    \item \textbf{B.Tech in Computer Science}, Kanpur Institute of Technology, AKTU Lucknow — CGPA: 7.74 (2017--2021)
+    \item \textbf{Certifications:} ServiceNow (CSA, CAD, Integration Hub \& Flow Designer), AWS Certified Cloud Practitioner, Ansible Automation Ascend Certified
+\end{itemize}
+
+\end{document}
