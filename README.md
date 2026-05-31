@@ -111,6 +111,14 @@ Completeness, Compliance, Correctness scorecards. Desired state auditing. Orphan
 **👉 Follow on LinkedIn → [linkedin.com/in/piyushv080](https://linkedin.com/in/piyushv080)**
 
 ---
+## 📈 Contribution Activity
+
+> **Note:** My primary development happens on a separate corporate GitHub account
+> linked to my Sanofi enterprise workspace.
+>
+> **539+ contributions in 2026** — patching, automation pipelines,
+> ServiceNow integrations, and CI/CD workflows — are tracked there
+> and are visible to my engineering team and managers.
 
 <div align="center">
 
