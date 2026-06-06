@@ -70,10 +70,10 @@ Completeness, Compliance, Correctness scorecards. Desired state auditing. Orphan
 
 | Repository | Description |
 |---|---|
-| [`snow-ansible-integration`](https://github.com/piyushv080) | 🔗 ServiceNow catalog → AAP trigger → CMDB writeback |
-| [`python_practice`](https://github.com/piyushv080) | 🐍 Query ServiceNow CMDB → generate Ansible dynamic inventory |
-| [`PowerShell_Advanced_Script`](https://github.com/piyushv080) | 💻 Incident & health-check automation → deploy → auto-close |
+| [`enterprise-platform-automation-suite`](https://github.com/piyushv080) | 🔗 ServiceNow catalog → AAP trigger → CMDB writeback |
 | [`ansible-playbooks-development`](https://github.com/piyushv080) | ⚙️ Reusable idempotent Ansible roles for server operations |
+| [`PowerShell_Advanced_Script`](https://github.com/piyushv080) | 💻 Incident & health-check automation → deploy → auto-close |
+
 
 > 🔒 All repositories use **personal ServiceNow developer instances** and anonymized dummy infrastructure. No proprietary data.
 
